@@ -56,7 +56,7 @@
 
 ## Установка
 
-Скачайте `XadoSpec.exe` со страницы [Releases](https://github.com/xadoho/XadoSpec/releases/latest) и запустите.
+Скачайте `XadoSpec-1.0.0.exe` со страницы [Releases](https://github.com/xadoho/XadoSpec/releases/latest) и запустите.
 
 Файл не подписан сертификатом, поэтому при первом запуске Windows может показать окно SmartScreen «Система Windows защитила ваш компьютер». Нажмите «Подробнее» → «Выполнить в любом случае».
 
